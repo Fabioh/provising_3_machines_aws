@@ -1,4 +1,4 @@
-# Simple Ansible playbook to create 3 ec2 intances in aws
+# Simple Ansible playbook that create 3 EC2 intances in aws
 
 ## Install Ansible
    - To install Ansible follw the instructionsin [this link](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html)
