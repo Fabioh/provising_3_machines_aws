@@ -1,0 +1,11 @@
+---
+# vars file for create
+instance_type: t2.micro
+# put this the your ip address that cam connect to the 
+# ec2 instances 
+allowed_ip: 0.0.0.0/32
+security_group: test Ansible
+image: ami-064a0193585662d74
+keypair: teste-ansible
+region: us-east-1
+count: 3
